@@ -1,4 +1,4 @@
-# Discord Launcher for Windows
+# Discord web launcher for windows
 
 A simple batch launcher to launch Discord on Windows.
 
