@@ -8,7 +8,7 @@ A simple batch launcher to launch Discord web fast on Windows.
 
 2. Double-click the file.
 
-3. Discord web starts automatically.
+3. Discord starts in the webbrowser automatically.
 
 > Note: You can add the file to your home screen so you can open the website directly from there.
 
