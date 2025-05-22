@@ -8,6 +8,6 @@ A simple batch launcher to launch Discord on Windows.
 
 2. Double-click the file.
 
-3. Discord starts automatically.
+3. Discord web starts automatically.
 
 > Note: Only works if Discord is installed at the default location
