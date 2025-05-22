@@ -13,4 +13,4 @@ A simple batch launcher to launch Discord on Windows.
 > Note: Only works if Discord is installed at the default location
 
 You can download it here:
-<a href="https://raw.githubusercontent.com/Kaanxsxs/Open-Discord/main/discord-web-launcher.bat.zip" download>Discord Launcher herunterladen</a>
+<a href="https://raw.githubusercontent.com/Kaanxsxs/Open-Discord/main/discord-web-launcher.bat.zip" download>Download Discord web</a>
