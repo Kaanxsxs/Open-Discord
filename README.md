@@ -10,7 +10,7 @@ A simple batch launcher to launch Discord on Windows.
 
 3. Discord web starts automatically.
 
-> Note: Only works if Discord is installed at the default location
+> Note:You can add the file to your home screen so you can open the website directly from there.
 
 You can download it here:
 <a href="https://raw.githubusercontent.com/Kaanxsxs/Open-Discord/main/discord-web-launcher.bat.zip" download>Download Discord web</a>
